@@ -156,4 +156,8 @@ I used AI, mainly for:
 The actual project design, assembly, UI, gpraphics, and final code were done by me.
 
 ---
+### Created for Hack Club’s Stardance.
+This project was created as part of Hack Club Stardance, a Hack Club event encouraging young people to build and ship their own projects.
+
+---
 **Made by Harry Fanouriakis**
